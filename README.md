@@ -4,9 +4,9 @@
 This repository contains SQL scripts, views, functions, and stored procedures for conducting finance and supply chain analytics. The analysis includes financial insights such as product-wise sales reports for the fiscal year 2021, gross sales reports, net sales analysis by customer and market, as well as supply chain analytics focusing on forecast accuracy evaluation for fiscal years 2020 and 2021.
 
 ## Files and Components
-1. **finance_analysis.sql**: This script includes SQL queries for financial analysis, such as product-wise sales reports, gross sales reports, net sales analysis by customer, market, and product, as well as market share analysis.
+1. **analysis.sql**: This script includes SQL queries for financial analysis, such as product-wise sales reports, gross sales reports, net sales analysis by customer, market, and product, as well as market share analysis.
 
-2. **supply_chain_analysis.sql**: This script performs supply chain analytics, focusing on evaluating forecast accuracy for fiscal years 2020 and 2021. It includes queries to calculate forecast errors, forecast accuracy percentages, and compare accuracy between the two fiscal years.
+2. **analysis.sql**: This script performs supply chain analytics, focusing on evaluating forecast accuracy for fiscal years 2020 and 2021. It includes queries to calculate forecast errors, forecast accuracy percentages, and compare accuracy between the two fiscal years.
 
 3. **views**: Views are created to provide a simplified and structured representation of data for analysis. These views may include aggregated data, filtered data, or joins across multiple tables to facilitate easier querying and analysis.
 
